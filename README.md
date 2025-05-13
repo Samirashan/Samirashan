@@ -22,14 +22,14 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
 <p align="left">
-  Frontend Developer from [Your Location]<br><br>
+  Frontend Developer from Ufa, Bashkortostan<br><br>
   - 💻 Specializing in building modern web interfaces<br>
-  - 🌱 Currently learning [relevant technologies, e.g. React 18, Next.js]<br>
+  - 🌱 Currently learning Python <br>
   - 🎨 Passionate about creating beautiful and user-friendly interfaces<br>
   - ⚡️ In my free time I contribute to open source or work on pet projects
 </p>
@@ -77,6 +77,6 @@
 ###
 
 <p align="left">
-  <a href="mailto:your-email@example.com">📧 your-email@example.com</a>
+  <a href="mailto:your-email@example.com">📧 samirashan.workk@gmail.com</a>
 </p>
 
